@@ -1,0 +1,1 @@
+# PROJECT : The project is about Prediction of Bird Species.In this project two different models have been used: a reimplementation of Elias Sprengels winning solution for the BirdCLEF 2016 challenge, and a Keras implementation of the deep residual neural network.
