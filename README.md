@@ -1,1 +1,1 @@
-# PROJECT : The project is about Prediction of Bird Species.In this project two different models have been used: a reimplementation of Elias Sprengels winning solution for the BirdCLEF 2016 challenge, and a Keras implementation of the deep residual neural network.
+# PROJECT : The goal of this project is to develop a machine learning model that can accurately predict the presence of lung cancer using patient data such as patient age, gender, habits of alcohol consumption or smoking, air pollution or past medical records.
